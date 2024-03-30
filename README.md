@@ -1,5 +1,5 @@
-# Analyze Data with Apache Spark - R Version
-This is an R version of a Microsoft Learn notebook Analyze Data with Apache Spark.
+# Microsoft Learn - Spark in Azure - R Version
+Here are R versions of Microsoft Learn notebooks about Apache Spark in Azure Synapse.
 
 Original Python versions:
 
