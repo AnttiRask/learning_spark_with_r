@@ -2,6 +2,7 @@
 This is an R version of a Microsoft Learn notebook Analyze Data with Apache Spark.
 
 Original Python versions:
+
 [https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/02-analyze-spark.html](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/02-analyze-spark.html)
 [https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/03-delta-lake.html](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/03-delta-lake.html)
 
